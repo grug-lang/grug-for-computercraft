@@ -1,0 +1,42 @@
+{
+    "entities": {
+        "Program": {
+            "description": "A grug program.",
+            "on_functions": [
+                {
+                    "name": "on_run",
+                    "description": "Called by Lua."
+                }
+            ]
+        }
+    },
+    "game_functions": {
+        "print_string": {
+            "description": "Prints a string.",
+            "arguments": [
+                {
+                    "name": "str",
+                    "type": "string"
+                }
+            ]
+        },
+        "forward": {
+            "description": "Moves the turtle forward one block."
+        },
+        "back": {
+            "description": "Moves the turtle back one block."
+        },
+        "left": {
+            "description": "Makes the turtle turn left."
+        },
+        "right": {
+            "description": "Makes the turtle turn right."
+        },
+        "dig": {
+            "description": "Makes the turtle dig a block."
+        },
+        "dig_up": {
+            "description": "Makes the turtle dig up a block."
+        }
+    }
+}

@@ -1,0 +1,7 @@
+on_run() {
+    while true {
+        dig()
+        forward()
+        dig_up()
+    }
+}

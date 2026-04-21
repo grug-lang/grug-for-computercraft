@@ -1,0 +1,3 @@
+[submodule "grug-for-lua"]
+	path = grug-for-lua
+	url = https://github.com/grug-lang/grug-for-lua
