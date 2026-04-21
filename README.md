@@ -1,19 +1,11 @@
-# grug-backend-computercraft
+# grug for ComputerCraft
 
-Running `lua` followed by `_VERSION` in a Computer in Tekkit Classic prints `Luaj-jse 2.0.3`. That version is listed on its GitHub repository [here](https://github.com/luaj/luaj#main-changes-by-version).
+This repository hosts example ComputerCraft programs that use [grug-for-lua](https://github.com/grug-lang/grug-for-lua) to run [grug](https://github.com/grug-lang/grug) code.
 
-```sh
-git submodule update --init
-```
+## Examples
 
-```sh
-cd ~/.technic/modpacks/tekkit/saves/grug-backend-computercraft/computer/0
-```
+### examples/mine/
 
-```sh
-ln -s ~/Programming/grug-backend-computercraft/examples/mine/mine.lua mine.lua && \
-ln -s ~/Programming/grug-backend-computercraft/examples/mine/mod_api.json mod_api.json && \
-mkdir -p mods/trez && \
-ln -s ~/Programming/grug-backend-computercraft/examples/mine/mods/trez/mine-Program.grug mods/trez/mine-Program.grug && \
-ln -s ~/Programming/grug-backend-computercraft/grug-for-lua/grug.lua grug.lua
-```
+This program works in Tekkit Classic (ComputerCraft 1.33, Minecraft 1.2.5):
+
+<video src="https://github.com/grug-lang/grug-for-computercraft/blob/main/assets/grug-for-computercraft.mp4" width="100%" autoplay controls loop muted></video>
