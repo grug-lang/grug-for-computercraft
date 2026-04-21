@@ -10,6 +10,6 @@ You will also always need to put [grug.lua](https://github.com/grug-lang/grug-fo
 
 ### examples/mine/
 
-This example is confirmed to work in Tekkit Classic (ComputerCraft 1.33, Minecraft 1.2.5):
+This example works in Tekkit Classic (ComputerCraft 1.33, Minecraft 1.2.5):
 
 <video src="https://github.com/user-attachments/assets/532bd12c-8564-40d4-9b73-c56606616f19" width="100%" autoplay controls loop muted></video>
