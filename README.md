@@ -4,6 +4,10 @@ This repository hosts example ComputerCraft programs that use [grug-for-lua](htt
 
 ## Examples
 
+You can run an example yourself by copying the files and directories from the example into the Computer or Turtle.
+
+You will also always need to put [grug.lua](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua) next to those other files.
+
 ### examples/mine/
 
 This program works in Tekkit Classic (ComputerCraft 1.33, Minecraft 1.2.5):
