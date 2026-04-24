@@ -11,7 +11,7 @@ You can run any example yourself by copying the files and directories from the e
 
 These examples have only been tested in Tekkit Classic (ComputerCraft 1.33 in Minecraft 1.2.5), but they should be easy to adapt to any other versions and forks of ComputerCraft, like [CC: Tweaked](https://tweaked.cc/).
 
-### examples/mine/
+### Example: `examples/mine/`
 
 This example demonstrates a mining program:
 
