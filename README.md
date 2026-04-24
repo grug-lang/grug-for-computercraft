@@ -9,7 +9,7 @@ You can run any example yourself by copying the files and directories from the e
 > [!IMPORTANT]
 > Each example requires [`grug.lua`](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua). Download it and place it inside the example's folder.
 
-These examples have only been tested in Tekkit Classic (ComputerCraft 1.33 in Minecraft 1.2.5), but they should work in other versions too.
+These examples have only been tested in Tekkit Classic (ComputerCraft 1.33 in Minecraft 1.2.5), but they should be easy to adapt to any other versions and forks of ComputerCraft, like [CC: Tweaked](https://tweaked.cc/).
 
 ### examples/mine/
 
