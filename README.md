@@ -1,10 +1,10 @@
 # grug for ComputerCraft
 
-This repository hosts example ComputerCraft programs that use [grug-for-lua](https://github.com/grug-lang/grug-for-lua) to run [grug](https://github.com/grug-lang/grug) code.
+This repository hosts example [ComputerCraft](https://feed-the-beast.fandom.com/wiki/ComputerCraft) programs that use [grug-for-lua](https://github.com/grug-lang/grug-for-lua) to run [grug](https://github.com/grug-lang/grug) code.
 
 ## Examples
 
-You can run an example yourself by copying the files and directories from the example into the Computer or Turtle.
+You can run any example yourself by copying the files and directories from the example into the Computer or Turtle.
 
 You will also always need to put [grug.lua](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua) next to those other files.
 
