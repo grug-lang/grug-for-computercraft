@@ -11,8 +11,8 @@ You can run any example yourself by copying the files and directories from the e
 
 There are examples for:
 - [ComputerCraft](https://feed-the-beast.fandom.com/wiki/ComputerCraft) 1.33 ([Tekkit Classic](https://www.technicpack.net/modpack/tekkit.552560), Minecraft 1.2.5, Lua 5.1)
-- [CC: Tweaked](https://tweaked.cc/) (TODO:, Minecraft TODO:, Lua TODO: x.y)
-- [OpenComputers](https://github.com/MightyPirates/OpenComputers) 1.11.20-GTNH ([GregTech: New Horizons 2.8.4](https://wiki.gtnewhorizons.com/wiki/Installing_and_Migrating), Minecraft 1.7.10, Lua 5.3)
+- [CC: Tweaked](https://tweaked.cc/) 1.117.1 ([All the Mods 10](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) v6.6, Minecraft 1.21.1, Lua 5.2)
+- [OpenComputers](https://github.com/MightyPirates/OpenComputers) 1.11.20-GTNH ([GregTech: New Horizons](https://wiki.gtnewhorizons.com/wiki/Installing_and_Migrating) 2.8.4, Minecraft 1.7.10, Lua 5.3)
     - See the [OpenComputers Tutorial](https://github.com/grug-lang/grug-for-computercraft#opencomputers-tutorial) at the bottom of this readme.
 
 ### Example: `examples/mine/`
