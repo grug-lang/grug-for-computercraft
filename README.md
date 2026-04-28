@@ -16,11 +16,11 @@ There are examples for:
 
 ### Example: `examples/mine/`
 
-This example demonstrates a mining program:
+This is a mining program:
 
 <video src="https://github.com/user-attachments/assets/532bd12c-8564-40d4-9b73-c56606616f19" width="100%" autoplay controls loop muted></video>
 
-TODO: Add OpenComputers video
+<video src="https://github.com/user-attachments/assets/f17df6c3-0837-463e-9b90-96ed8548e777" width="100%" autoplay controls loop muted></video>
 
 #### OpenComputers installation commands
 
