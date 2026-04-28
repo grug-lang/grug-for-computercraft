@@ -23,6 +23,18 @@ This is a mining program.
 
 <video src="https://github.com/user-attachments/assets/f17df6c3-0837-463e-9b90-96ed8548e777" width="100%" autoplay controls loop muted></video>
 
+#### CC: Tweaked installation commands
+
+Paste these lines one-by-one into your robot's terminal using Ctrl+V:
+```
+wget https://raw.githubusercontent.com/grug-lang/grug-for-lua/refs/heads/main/grug.lua
+mkdir mods/foo
+wget https://raw.githubusercontent.com/grug-lang/grug-for-computercraft/refs/heads/main/examples/mine/mods/foo/mine-Program.grug mods/foo/mine-Program.grug
+wget https://raw.githubusercontent.com/grug-lang/grug-for-computercraft/refs/heads/main/examples/mine/mine_computercraft.lua mine.lua
+wget https://raw.githubusercontent.com/grug-lang/grug-for-computercraft/refs/heads/main/examples/mine/mod_api.json
+mine
+```
+
 #### OpenComputers installation commands
 
 Paste these lines one-by-one into your robot's terminal using middle mouse button:
