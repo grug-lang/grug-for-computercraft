@@ -17,7 +17,7 @@ There are examples for:
 
 ### Example: `examples/mine/`
 
-This is a mining program:
+This is a mining program.
 
 <video src="https://github.com/user-attachments/assets/532bd12c-8564-40d4-9b73-c56606616f19" width="100%" autoplay controls loop muted></video>
 
