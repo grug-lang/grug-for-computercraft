@@ -25,6 +25,8 @@ This is a mining program.
 
 #### CC: Tweaked
 
+Turtles require fuel. Run `refuel all` or [`turtle.refuel()`](https://tweaked.cc/module/turtle.html#v:refuel) beforehand.
+
 Paste these lines one-by-one into your robot's terminal using Ctrl+V:
 ```
 wget https://raw.githubusercontent.com/grug-lang/grug-for-lua/refs/heads/main/grug.lua
