@@ -7,7 +7,7 @@ This repository provides example [ComputerCraft](https://feed-the-beast.fandom.c
 You can run any example yourself by copying the files and directories from the example into the Computer or Turtle.
 
 > [!IMPORTANT]
-> Every example requires [`grug.lua`](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua). Download it and place it inside the example's folder.
+> Every example requires you to download [`grug.lua`](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua).
 
 There are examples for:
 - ComputerCraft 1.33 ([Tekkit Classic](https://www.technicpack.net/modpack/tekkit.552560), Minecraft 1.2.5, Lua 5.1)
