@@ -26,7 +26,7 @@ This is a mining program:
 #### OpenComputers installation commands
 
 Paste these lines one-by-one into your robot's terminal using middle mouse button:
-```bash
+```
 wget https://raw.githubusercontent.com/grug-lang/grug-for-lua/refs/heads/main/grug.lua
 mkdir mods/foo
 wget https://raw.githubusercontent.com/grug-lang/grug-for-computercraft/refs/heads/main/examples/mine/mods/foo/mine-Program.grug mods/foo/mine-Program.grug
