@@ -19,11 +19,11 @@ There are examples for:
 
 This is a mining program.
 
+#### ComputerCraft
+
 <video src="https://github.com/user-attachments/assets/532bd12c-8564-40d4-9b73-c56606616f19" width="100%" autoplay controls loop muted></video>
 
-<video src="https://github.com/user-attachments/assets/f17df6c3-0837-463e-9b90-96ed8548e777" width="100%" autoplay controls loop muted></video>
-
-#### CC: Tweaked installation commands
+#### CC: Tweaked
 
 Paste these lines one-by-one into your robot's terminal using Ctrl+V:
 ```
@@ -35,7 +35,9 @@ wget https://raw.githubusercontent.com/grug-lang/grug-for-computercraft/refs/hea
 mine
 ```
 
-#### OpenComputers installation commands
+#### OpenComputers
+
+<video src="https://github.com/user-attachments/assets/f17df6c3-0837-463e-9b90-96ed8548e777" width="100%" autoplay controls loop muted></video>
 
 Paste these lines one-by-one into your robot's terminal using middle mouse button:
 ```
