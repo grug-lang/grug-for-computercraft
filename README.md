@@ -29,7 +29,7 @@ This is a mining program.
 
 Turtles require fuel. Run `refuel all` or [`turtle.refuel()`](https://tweaked.cc/module/turtle.html#v:refuel) beforehand.
 
-Paste these lines one-by-one into your robot's terminal using Ctrl+V:
+Paste these lines one-by-one into your turtle using Ctrl+V:
 ```
 wget https://raw.githubusercontent.com/grug-lang/grug-for-lua/refs/heads/main/grug.lua
 mkdir mods/foo
@@ -43,7 +43,7 @@ mine
 
 <video src="https://github.com/user-attachments/assets/f17df6c3-0837-463e-9b90-96ed8548e777" width="100%" autoplay controls loop muted></video>
 
-Paste these lines one-by-one into your robot's terminal using middle mouse button:
+Paste these lines one-by-one into your robot using middle mouse button:
 ```
 wget https://raw.githubusercontent.com/grug-lang/grug-for-lua/refs/heads/main/grug.lua
 mkdir mods/foo
