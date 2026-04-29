@@ -8,7 +8,7 @@ All examples work in:
 - [OpenComputers](https://github.com/MightyPirates/OpenComputers) 1.11.20-GTNH ([GregTech: New Horizons](https://wiki.gtnewhorizons.com/wiki/Installing_and_Migrating) 2.8.4, Minecraft 1.7.10, Lua 5.3)
     - See the [OpenComputers Tutorial](https://github.com/grug-lang/grug-for-computercraft#opencomputers-tutorial) at the bottom of this readme.
 
-It's worth highlighting how ComputerCraft, CC: Tweaked and OpenComputers all use the same `mod_api.json` and `.grug` files; grug makes it feasible to write _truly_ portable programs.
+It's worth highlighting how ComputerCraft, CC: Tweaked, and OpenComputers all use the same `mod_api.json` and `.grug` files; grug makes it feasible to write _truly_ portable programs.
 
 > [!NOTE]
 > This repository deliberately does **not** provide a grug standard library. Create your own, based on the examples!
