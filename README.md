@@ -11,7 +11,7 @@ All examples work in:
 It's worth highlighting how ComputerCraft, CC: Tweaked and OpenComputers all use the same `mod_api.json` and `.grug` files. grug makes it feasible to write _truly_ portable programs.
 
 > [!NOTE]
-> This repository deliberately does **not** provide a grug standard library. Create your own, based on the examples.
+> This repository deliberately does **not** provide a grug standard library. Create your own, based on the examples!
 
 ## Examples
 
