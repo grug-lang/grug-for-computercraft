@@ -25,6 +25,8 @@ This is a mining program.
 
 #### CC: Tweaked
 
+<video src="https://github.com/user-attachments/assets/3f793754-4bc3-4208-888d-0e41942ff838" width="100%" autoplay controls loop muted></video>
+
 Turtles require fuel. Run `refuel all` or [`turtle.refuel()`](https://tweaked.cc/module/turtle.html#v:refuel) beforehand.
 
 Paste these lines one-by-one into your robot's terminal using Ctrl+V:
