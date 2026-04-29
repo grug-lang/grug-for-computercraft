@@ -2,18 +2,23 @@
 
 This repository provides example [ComputerCraft](https://feed-the-beast.fandom.com/wiki/ComputerCraft) programs that show how to run [grug](https://github.com/grug-lang/grug) code using [grug-for-lua](https://github.com/grug-lang/grug-for-lua).
 
+All examples work in:
+- [ComputerCraft](https://feed-the-beast.fandom.com/wiki/ComputerCraft) 1.33 ([Tekkit Classic](https://www.technicpack.net/modpack/tekkit.552560) 3.1.2, Minecraft 1.2.5, Lua 5.1)
+- [CC: Tweaked](https://tweaked.cc/) 1.117.1 ([All the Mods 10](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) v6.6, Minecraft 1.21.1, Lua 5.2)
+- [OpenComputers](https://github.com/MightyPirates/OpenComputers) 1.11.20-GTNH ([GregTech: New Horizons](https://wiki.gtnewhorizons.com/wiki/Installing_and_Migrating) 2.8.4, Minecraft 1.7.10, Lua 5.3)
+    - See the [OpenComputers Tutorial](https://github.com/grug-lang/grug-for-computercraft#opencomputers-tutorial) at the bottom of this readme.
+
+It's worth highlighting how ComputerCraft, CC: Tweaked and OpenComputers all use the same `mod_api.json` and `.grug` files. grug makes it feasible to write _truly_ portable programs.
+
+> [!NOTE]
+> This repository deliberately does not provide a grug standard library. You are intended to create your own, based on the examples.
+
 ## Examples
 
 You can run any example yourself by copying the files and directories from the example into the Computer or Turtle.
 
 > [!IMPORTANT]
 > Every example requires you to download [`grug.lua`](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua).
-
-There are examples for:
-- [ComputerCraft](https://feed-the-beast.fandom.com/wiki/ComputerCraft) 1.33 ([Tekkit Classic](https://www.technicpack.net/modpack/tekkit.552560) 3.1.2, Minecraft 1.2.5, Lua 5.1)
-- [CC: Tweaked](https://tweaked.cc/) 1.117.1 ([All the Mods 10](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) v6.6, Minecraft 1.21.1, Lua 5.2)
-- [OpenComputers](https://github.com/MightyPirates/OpenComputers) 1.11.20-GTNH ([GregTech: New Horizons](https://wiki.gtnewhorizons.com/wiki/Installing_and_Migrating) 2.8.4, Minecraft 1.7.10, Lua 5.3)
-    - See the [OpenComputers Tutorial](https://github.com/grug-lang/grug-for-computercraft#opencomputers-tutorial) at the bottom of this readme.
 
 ### Example: `examples/mine/`
 
