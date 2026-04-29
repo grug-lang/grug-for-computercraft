@@ -2,7 +2,7 @@ local robot = require("robot")
 
 local grug = loadfile("grug.lua")()
 
-local state = grug.init({on_fn_time_limit_ms=4000})
+local state = grug.init({on_fn_time_limit_ms=10000})
 
 state:register_game_fn("print_string", function(state, string)
 	print(string)
