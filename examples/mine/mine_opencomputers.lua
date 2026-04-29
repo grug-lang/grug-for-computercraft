@@ -4,31 +4,31 @@ local grug = loadfile("grug.lua")()
 
 local state = grug.init({on_fn_time_limit_ms=10000})
 
-state:register_game_fn("print_string", function(state, string)
+state:register("print_string", function(state, string)
 	print(string)
 end)
 
-state:register_game_fn("forward", function(state)
+state:register("forward", function(state)
 	robot.forward()
 end)
 
-state:register_game_fn("back", function(state)
+state:register("back", function(state)
 	robot.back()
 end)
 
-state:register_game_fn("left", function(state)
+state:register("left", function(state)
 	robot.turnLeft()
 end)
 
-state:register_game_fn("right", function(state)
+state:register("right", function(state)
 	robot.turnRight()
 end)
 
-state:register_game_fn("dig", function(state)
+state:register("dig", function(state)
 	robot.swing()
 end)
 
-state:register_game_fn("dig_up", function(state)
+state:register("dig_up", function(state)
 	robot.swingUp()
 end)
 
